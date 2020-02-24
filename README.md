@@ -2,5 +2,6 @@
 
 prueba técnica. 
 
-run dev: "npm run dev"
-run build: "npm run build"
+npm install
+npm run dev: "npm run dev"
+npm run build: "npm run build"
