@@ -1,6 +1,3 @@
-# servisenior
-
-prueba técnica. 
 
 install: "npm install"
 
